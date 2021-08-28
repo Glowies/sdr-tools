@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noaa-apt-wrapper", "noaa-apt-wrapper\noaa-apt-wrapper.csproj", "{A68476CC-CB45-4750-9BA9-77C0A81A90BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68476CC-CB45-4750-9BA9-77C0A81A90BF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A68476CC-CB45-4750-9BA9-77C0A81A90BF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A68476CC-CB45-4750-9BA9-77C0A81A90BF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A68476CC-CB45-4750-9BA9-77C0A81A90BF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B42A52C9-1E20-4889-9C7E-62E40BC511A7}
+	EndGlobalSection
+EndGlobal
